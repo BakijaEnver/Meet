@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimaryWhite">#ffffff</color>
+    <color name="colorPrimary">#ea2026</color>
+    <color name="colorPrimaryDark">#0e195d</color>
+    <color name="colorAccent">#ff4081</color>
+    <color name="colorRed">#d80000</color>
+    <color name="colorRedFocus">#f80000</color>
+    <color name="colorGreen">#37b663</color>
+    <color name="colorGreenFocus">#3ce777</color>
+    <color name="colorBlue">#0072ff</color>
+    <color name="colorBlueFocus">#369ef3</color>
+    <color name="textColor">#c2c2c2</color>
+    <color name="disableColor">#e0e0e0</color>
+    <color name="colorBlack">#2b2b2b</color>
+    <color name="colorSidebarButton">#f6f6f6</color>
+    <color name="colorTransparent">#50ffffff</color>
+    <color name="colorTransparentDark">#cc000000</color>
+    <color name="colorTransparent30">#30ffffff</color>
+    <color name="colorTransparent50">#50ffffff</color>
+    <color name="colorTransparent90">#90ffffff</color>
+    <color name="colorTransparent10">#10FFFFFF</color>
+    <color name="colorTransparent20">#20FFFFFF</color>
+    <color name="colorFullTransparent">#00FFFFFF</color>
+</resources>
